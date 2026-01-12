@@ -1,0 +1,2 @@
+const SPIN_WHEEL = "SPIN_WHEEL";
+const STOP_WHEEL = "STOP_WHEEL";
